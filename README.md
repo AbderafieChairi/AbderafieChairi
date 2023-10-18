@@ -6,12 +6,12 @@ I'm a DevOps professional at Mohammedia School of Engineering with a passion for
 
 ## 🛠 Skills
 
-- **Python**: 
-- **Java**:
-- **JavaScript**: .
+- **Python** 
+- **Java**
+- **JavaScript**
 
-- **C#**: 
-- **C**:
+- **C#**
+- **C**
 
 ## Projects
 
