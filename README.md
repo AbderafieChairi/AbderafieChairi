@@ -36,6 +36,3 @@ Let's code and build amazing things together!
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbderafieChairi&layout=compact)](http://abderafiechairi.me/)
 
 
-
-
-https://drive.google.com/file/d/1M4zw9aEc_zQHWT-O7G8U0qM2tq94ZNfR/view?usp=sharing
